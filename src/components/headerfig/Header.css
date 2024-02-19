@@ -1,0 +1,26 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container-fluid {
+    background-color: #f8f9fa; /* Add a background color for better visibility */
+  }
+  
+  ul{
+    display: inline
+  }
+  
+li {
+    
+    display: inline;
+    float: right;
+    margin-right: 14px; /* Adjust spacing between list items */
+    font-weight: bold; /* Make the text bold */
+    color: #007bff; /* Set the text color */
+  }
+
+  h1{
+    display: inline;
+  }
+  
